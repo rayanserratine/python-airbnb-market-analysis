@@ -83,8 +83,8 @@ The dataset required several preprocessing steps:
 
 ## 📈 Key Insights
 
-- The average Airbnb price in Vancouver is approximately **$150–$160 per night**
-- Neighborhoods like **Downtown** and **Kitsilano** have the highest average prices
+- The average Airbnb price in Vancouver is approximately **$170–$180 per night**
+- Neighborhoods like **Kitsilano**, **Arbutus Ridge** and **Downtown** have the highest average prices
 - The majority of listings are **entire homes/apartments**
 - Most listings fall within the **$80–$200 price range**
 - There is **no strong linear relationship** between price and number of reviews
