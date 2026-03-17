@@ -59,25 +59,25 @@ The dataset required several preprocessing steps:
 
 ### 💰 Price Distribution
 
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](python-airbnb-market-analysis/images/price_distribution.png)
 
 ---
 
 ### 🏙️ Price by Neighborhood
 
-![Price by Neighbourhood](images/price_by_neighbourhood.png)
+![Price by Neighbourhood](python-airbnb-market-analysis/images/price_by_neighbourhood.png)
 
 ---
 
 ### 🛏️ Room Type Distribution
 
-![Room Type Distribution](images/room_type_distribution.png)
+![Room Type Distribution](python-airbnb-market-analysis/images/room_type_distribution.png)
 
 ---
 
 ### ⭐ Price vs Number of Reviews
 
-![Reviews vs Price](images/reviews_vs_price.png)
+![Reviews vs Price](python-airbnb-market-analysis/images/reviews_vs_price.png)
 
 ---
 
